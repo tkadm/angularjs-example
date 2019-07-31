@@ -1,0 +1,14 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "tdka97",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.0"
+  }
+}
